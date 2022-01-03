@@ -58,7 +58,7 @@
 
 <table>
   <tr>
-    <td><img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimutai01&layout=compact)](https://github.com/Kimutai01/github-readme-stats)&layout=compact&show_icnos=true"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kimutai01 &layout=compact&show_icnos=true"/></td>
     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimutai01&langs_count=10&layout=compact"/></td>
   </tr>
 </table>
