@@ -54,9 +54,8 @@
   <tr>
     <td><img src="https://raw.githubusercontent.com/Kimutai01/github-stats/master/generated/overview.svg" /></td>
   </tr>
-</table>
 
-<table>
+
   <tr>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kimutai01 &layout=compact&show_icnos=true"/></td>
     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimutai01&langs_count=10&layout=compact"/></td>
