@@ -52,7 +52,7 @@
 
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/WilliamOtieno/github-stats/master/generated/overview.svg" /></td>
+    <td><img src="https://raw.githubusercontent.com/Kimutai01/github-stats/master/generated/overview.svg" /></td>
   </tr>
 </table>
 
