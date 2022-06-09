@@ -1,4 +1,4 @@
-#### Hey 👋 I'm Kiprotich Kimutai a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies i enjoy working with include Python, Javascript, Django, Flask, Angular . I'm also interested in learning new things like APIs, CI/CD, Docker, React, Ruby and Databases. I'm also a linux enthusiast 😆
+#### Hey 👋 I'm Kiprotich Kimutai a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies i enjoy working with include Python, Javascript, Django, Flask, Angular . I'm also interested in learning new things like APIs, CI/CD, Docker, React, Ruby and Databases. I'm also a linux enthusiast 😆. I'm open for any opportunities.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kimutai01 &label=Profile%20views&color=0e75b6&style=flat" alt="kimutai" /> </p>
 
 
