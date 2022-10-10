@@ -41,7 +41,7 @@
 ### :octocat: My stats
   <table>
   <tr>
-    <a href="https://wakatime.com/@031f0010-ed93-450d-86db-77e0f90e1bae"><img src="https://wakatime.com/badge/user/031f0010-ed93-450d-86db-77e0f90e1bae.svg" alt="Total time coded since Jul 30 2021" /></a>
+    <a href="https://wakatime.com/@179e7fa3-ef6f-4177-a439-15241c36c2b7"><img src="https://wakatime.com/badge/user/179e7fa3-ef6f-4177-a439-15241c36c2b7.svg" alt="Total time coded since Jul 30 2021" /></a>
   </tr>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Kimutai01&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
