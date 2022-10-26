@@ -50,12 +50,9 @@
   </tr>   
 </table>
 <table>
-
-
   <tr>
-    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimutai01&layout=compact)](https://github.com/Kimutai01/github-readme-stats)</td>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimutai01&langs_count=10&layout=compact"/></td>
   </tr>
-</table>
 
 ### Get in touch
 <p>
