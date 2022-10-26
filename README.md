@@ -44,8 +44,8 @@
     <a href="https://wakatime.com/@179e7fa3-ef6f-4177-a439-15241c36c2b7"><img src="https://wakatime.com/badge/user/179e7fa3-ef6f-4177-a439-15241c36c2b7.svg" alt="Total time coded since Jul 30 2021" /></a>
   </tr>
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Kimutai01&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
-    <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Kimutai01&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
+         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimutai01&langs_count=10&layout=compact"/></td>
+  </tr>
   
   </tr>   
 </table>
