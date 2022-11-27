@@ -35,7 +35,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
 ### :octocat: My stats
-<table>
+  <table>
 
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=Kimutai01&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/></td>
