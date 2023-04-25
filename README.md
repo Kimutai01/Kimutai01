@@ -1,4 +1,4 @@
-#### Hey 👋 I'm Kiprotich Kimutai a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies i enjoy working with include Python, Javascript, Django, Flask, Angular . I'm also interested in learning new things like APIs, CI/CD, Docker, React, Ruby and Databases. I'm also a linux enthusiast 😆. I'm open for any opportunities.
+#### Hey 👋 I'm Kiprotich Kimutai a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies i enjoy working with include Python, Javascript, React, Ruby, Nextjs, Ruby on Rails and Rspec. I'm also a linux enthusiast 😆. I'm open for any opportunities.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kimutai01 &label=Profile%20views&color=0e75b6&style=flat" alt="kimutai" /> </p>
 
 
@@ -23,16 +23,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 
 ### :octocat: My stats
   <table>
