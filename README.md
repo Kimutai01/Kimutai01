@@ -1,4 +1,4 @@
-#### Hey 👋 I'm Kiprotich Kimutai a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies i enjoy working with include Python, Javascript, React, Ruby, Nextjs, Ruby on Rails and Rspec. I'm also a linux enthusiast 😆. I'm open for any opportunities.
+#### Hey 👋 I'm Kiprotich Kimutai a fullstack developer, who is passionate about making open-source more accessible and creating technology to solve problems 😎. The technologies i enjoy working with include Elixir, Phoenix Liveview, Javascript, React, Typescript and many more.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kimutai01 &label=Profile%20views&color=0e75b6&style=flat" alt="kimutai" /> </p>
 
 
